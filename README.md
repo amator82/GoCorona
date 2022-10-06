@@ -1,2 +1,2 @@
-# 03_GoCorona
- HTML/CSS
+# GoCorona
+Some simple website
